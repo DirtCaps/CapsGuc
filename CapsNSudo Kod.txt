@@ -1,0 +1,12 @@
+1)
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -sta -WindowStyle Hidden -noprofile -executionpolicy bypass -file C:\CapsGuc\GizliPower.ps1
+
+2)
+"C:\CapsGuc\CapsGuc Kur #1 v2.reg"
+
+3)
+"C:\CapsGuc\CapsGuc Kur #2 v2.cmd"
+
+
+
+DirtCaps by. Efe
