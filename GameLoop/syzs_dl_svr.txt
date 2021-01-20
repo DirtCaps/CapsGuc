@@ -1,3 +1,0 @@
-"TxGameAssistant\AppMarket\DL"
-
-"syzs_dl_svr.cfg" Buraya at
